@@ -80,22 +80,21 @@ Facial_Expression_Recognition/
 ### 1️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
----
 
 ### 2️⃣ Train the CNN Model
 ```bash
 python train.py
-
----
+```
 
 ### 3️⃣ Run Real-Time Facial Expression Recognition
 ```bash
 python realtime.py
+```
 
----
 
 
-Press Q to exit the webcam window.
+## Press Q to exit the webcam window.
 
 
