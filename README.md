@@ -43,34 +43,9 @@ https://www.kaggle.com/datasets/msambare/fer2013
 
 ---
 
-## ⚙️ Project Structure
-Facial_Expression_Recognition/
-│
-├── train.py # Model training script
-├── realtime.py # Real-time webcam emotion detection
-├── model.h5 # Trained CNN model
-├── requirements.txt # Project dependencies
-├── README.md # Project documentation
-│
-├── train/ # Training dataset (image folders)
-│ ├── angry/
-│ ├── disgust/
-│ ├── fear/
-│ ├── happy/
-│ ├── sad/
-│ ├── surprise/
-│ └── neutral/
-│
-└── test/ # Testing dataset (image folders)
-├── angry/
-├── disgust/
-├── fear/
-├── happy/
-├── sad/
-├── surprise/
-└── neutral/
+## 🗂️ Project Structure Diagram
 
-
+![Project Structure](images/project_structure.png)
 
 
 ---
